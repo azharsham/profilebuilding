@@ -3,7 +3,7 @@
     color: aliceblue;
 }
  .container{
-     scroll-snap-type: y mandatory;
+     scroll-snap-type: y proximity;
      overflow-y: scroll;
 
      height: 100vh;
